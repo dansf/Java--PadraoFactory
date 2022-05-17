@@ -1,7 +1,7 @@
-<h2 align="center">Sistema de Elevador - Java ☕</h2>
+<h2 align="center">Factory Method - Java ☕</h2>
 <h4>Introdução</h4>
 <p>
-  Sistema criado a partir de um exercício online com a finalidade de exercitar POO.<br/>
+  Sistema criado a partir de um exercício proposto pelo professor de Desenvolvimento de Sistemas II para lecionar o <a href="https://refactoring.guru/pt-br/design-patterns/factory-method" target="_blank">Design Pattern Factory</a>.<br/>
   O código foi escrito através do VsCode com o pacote de extensões do Java.
 </p>
 
@@ -25,7 +25,13 @@
 
 <h4>Execução da solução</h4>
 
-<!-- ![image](https://user-images.githubusercontent.com/63010902/160855772-827c8793-ba23-444d-9bcd-70a477ce1d5b.png) -->
+ ![image](https://user-images.githubusercontent.com/63010902/168811695-11337653-c205-424d-8a90-7336aec92289.png)
+
+<h4>Desenvolvido e as classes utilizadas</h4>
+
+O sistema foi desenvolvido a partir do ```Factory Method```, onde a criação de um determinado objeto é feita a partir de um construtor. É possível entender melhor lendo a documentação do <a href="https://refactoring.guru/pt-br/design-patterns/factory-method" target="_blank">Design Pattern Factory</a>.
+
+A classe ```OutIn``` tem o intuito apenas de otimização da leitura e impressão de código. Com os métodos ```In``` é possível retornar o valor digitado a uma variável, e os métodos ```Out``` é possível imprimir o que foi digitado. 
 
 <h4>Desenvolvedor</h4>
 
