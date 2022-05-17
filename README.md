@@ -25,7 +25,7 @@
 
 <h4>Execução da solução</h4>
 
-![image](https://user-images.githubusercontent.com/63010902/160855772-827c8793-ba23-444d-9bcd-70a477ce1d5b.png)
+<!-- ![image](https://user-images.githubusercontent.com/63010902/160855772-827c8793-ba23-444d-9bcd-70a477ce1d5b.png) -->
 
 <h4>Desenvolvedor</h4>
 
